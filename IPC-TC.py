@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Import
-datos = pd.read_excel('Anexo.xlsx', header=0, index_col=0)
+datos = pd.read_excel('IPC-TC.xlsx', header=0, index_col=0)
 #Data source: BCRA
 
 #Plot
